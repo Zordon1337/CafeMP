@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SicVmiZ8aBXga8Lb+AhTxytOlQxUMC/jcapPdvUF96ITrFL6D3YpYv8nH+b1RCKw4WXSDVvy2PNh9RizLrpXeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZRD\\source\\repos\\CafeMP\\CafeMP\\CafeMP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZRD\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZRD\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZRD\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ZRD\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ZRD\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
